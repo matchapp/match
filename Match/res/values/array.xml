@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string-array name="phone_num">
+      <item >+82</item>
+   </string-array>
+  <string-array name="sports_name">
+      <item >선택</item>
+      <item >축구</item>
+      <item >야구</item>
+      <item >배드민턴</item>
+   </string-array>
+</resources>
